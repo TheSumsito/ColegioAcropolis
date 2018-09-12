@@ -1,0 +1,40 @@
+.FontsEncabezado
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 100%;
+}
+.FontsTituloIntro
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200%;
+    color: black;
+}
+.FontsIntro
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    color: black;
+}
+.FontsTitInfo
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 180%;
+    color: rgb(135, 132, 132);
+}
+.FontsInfo
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font: 100%;
+    color: rgb(198, 180, 180);
+}
+
+.Centrado{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 600%;
+    color:  rgb(198, 180, 180);
+}

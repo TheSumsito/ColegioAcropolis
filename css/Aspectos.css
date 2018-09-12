@@ -1,0 +1,73 @@
+.BarraMenu
+{
+    height: 82px;
+    width: auto;
+    background-color:white;
+}
+.ContenedorIMG
+{
+    float: center;
+    height: 500px;
+    width: auto;
+}
+.Img
+{
+    width: auto;
+    height: 500px;
+    background-color: brown;
+}
+.Contenedor
+{
+    float: center;
+    height: 280px;
+    width: auto;
+}
+.CuadroGen
+{
+    float: center;
+    height: 280px;
+    width: 380px;
+    background-color: darkslategray;
+}
+.CuadroInno
+{
+    float: right;
+    height: 280px;
+    width: 375px;
+    background-color: rgb(59, 100, 100);
+}
+.CuadroDes
+{
+    float: right;
+    height: 280px;
+    width: 385px;
+    background-color: rgb(65, 111, 111);
+}
+.CuadroVal
+{
+    float: right;
+    height: 280px;
+    width: 380px;
+    background-color: rgb(72, 123, 123);
+}
+.Introduccion
+{
+    height: 250px;
+    width: auto;
+    background-color:rgb(209, 206, 206);
+}
+.Final
+{
+    height: 250px;
+    width: auto;
+    background-color:rgb(209, 206, 206);
+}
+.Encabezado
+{
+    height: 200px;   
+    width: auto;
+    background-color:  rgb(42, 41, 41);   
+}
+
+
+
